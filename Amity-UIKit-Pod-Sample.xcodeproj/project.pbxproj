@@ -16,6 +16,9 @@
 		4DD22BF228192E2500644A90 /* Amity_UIKit_Pod_SampleTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4DD22BF128192E2500644A90 /* Amity_UIKit_Pod_SampleTests.swift */; };
 		4DD22BFC28192E2500644A90 /* Amity_UIKit_Pod_SampleUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4DD22BFB28192E2500644A90 /* Amity_UIKit_Pod_SampleUITests.swift */; };
 		4DD22BFE28192E2500644A90 /* Amity_UIKit_Pod_SampleUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4DD22BFD28192E2500644A90 /* Amity_UIKit_Pod_SampleUITestsLaunchTests.swift */; };
+		8F2B82CB85B8BDF5AAF9AC18 /* Pods_Amity_UIKit_Pod_Sample.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 8CF5F0AF41F62AA1121CCAC3 /* Pods_Amity_UIKit_Pod_Sample.framework */; };
+		B62860F67396B020B9327F38 /* Pods_Amity_UIKit_Pod_Sample_Amity_UIKit_Pod_SampleUITests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 702F12FEA9C59757424CD7F9 /* Pods_Amity_UIKit_Pod_Sample_Amity_UIKit_Pod_SampleUITests.framework */; };
+		F38AB2EAFEE7C27A93040C50 /* Pods_Amity_UIKit_Pod_SampleTests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 23EF8414CA0FCF6CB72E1B6E /* Pods_Amity_UIKit_Pod_SampleTests.framework */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,6 +39,9 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		05FB5E6A5889B9DAF70D51B5 /* Pods-Amity-UIKit-Pod-Sample.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Amity-UIKit-Pod-Sample.release.xcconfig"; path = "Target Support Files/Pods-Amity-UIKit-Pod-Sample/Pods-Amity-UIKit-Pod-Sample.release.xcconfig"; sourceTree = "<group>"; };
+		1A8872DFD33055CD0F630F03 /* Pods-Amity-UIKit-Pod-SampleTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Amity-UIKit-Pod-SampleTests.release.xcconfig"; path = "Target Support Files/Pods-Amity-UIKit-Pod-SampleTests/Pods-Amity-UIKit-Pod-SampleTests.release.xcconfig"; sourceTree = "<group>"; };
+		23EF8414CA0FCF6CB72E1B6E /* Pods_Amity_UIKit_Pod_SampleTests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_Amity_UIKit_Pod_SampleTests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		4DD22BD728192E2200644A90 /* Amity-UIKit-Pod-Sample.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Amity-UIKit-Pod-Sample.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		4DD22BDA28192E2200644A90 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		4DD22BDC28192E2200644A90 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -49,6 +55,12 @@
 		4DD22BF728192E2500644A90 /* Amity-UIKit-Pod-SampleUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Amity-UIKit-Pod-SampleUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		4DD22BFB28192E2500644A90 /* Amity_UIKit_Pod_SampleUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Amity_UIKit_Pod_SampleUITests.swift; sourceTree = "<group>"; };
 		4DD22BFD28192E2500644A90 /* Amity_UIKit_Pod_SampleUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Amity_UIKit_Pod_SampleUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		4F33703FE6CD6CC5D1DF091C /* Pods-Amity-UIKit-Pod-Sample-Amity-UIKit-Pod-SampleUITests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Amity-UIKit-Pod-Sample-Amity-UIKit-Pod-SampleUITests.debug.xcconfig"; path = "Target Support Files/Pods-Amity-UIKit-Pod-Sample-Amity-UIKit-Pod-SampleUITests/Pods-Amity-UIKit-Pod-Sample-Amity-UIKit-Pod-SampleUITests.debug.xcconfig"; sourceTree = "<group>"; };
+		702F12FEA9C59757424CD7F9 /* Pods_Amity_UIKit_Pod_Sample_Amity_UIKit_Pod_SampleUITests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_Amity_UIKit_Pod_Sample_Amity_UIKit_Pod_SampleUITests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		8CF5F0AF41F62AA1121CCAC3 /* Pods_Amity_UIKit_Pod_Sample.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_Amity_UIKit_Pod_Sample.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		A4A0A8F74B5EFEBEB050413D /* Pods-Amity-UIKit-Pod-Sample-Amity-UIKit-Pod-SampleUITests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Amity-UIKit-Pod-Sample-Amity-UIKit-Pod-SampleUITests.release.xcconfig"; path = "Target Support Files/Pods-Amity-UIKit-Pod-Sample-Amity-UIKit-Pod-SampleUITests/Pods-Amity-UIKit-Pod-Sample-Amity-UIKit-Pod-SampleUITests.release.xcconfig"; sourceTree = "<group>"; };
+		A7A8468356578A107C5A78E6 /* Pods-Amity-UIKit-Pod-Sample.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Amity-UIKit-Pod-Sample.debug.xcconfig"; path = "Target Support Files/Pods-Amity-UIKit-Pod-Sample/Pods-Amity-UIKit-Pod-Sample.debug.xcconfig"; sourceTree = "<group>"; };
+		F5AE3D572A35AA31E9A0FD06 /* Pods-Amity-UIKit-Pod-SampleTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Amity-UIKit-Pod-SampleTests.debug.xcconfig"; path = "Target Support Files/Pods-Amity-UIKit-Pod-SampleTests/Pods-Amity-UIKit-Pod-SampleTests.debug.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +68,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				8F2B82CB85B8BDF5AAF9AC18 /* Pods_Amity_UIKit_Pod_Sample.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -63,6 +76,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				F38AB2EAFEE7C27A93040C50 /* Pods_Amity_UIKit_Pod_SampleTests.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -70,12 +84,37 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				B62860F67396B020B9327F38 /* Pods_Amity_UIKit_Pod_Sample_Amity_UIKit_Pod_SampleUITests.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		1A27460F47125630A6D4A9AD /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				A7A8468356578A107C5A78E6 /* Pods-Amity-UIKit-Pod-Sample.debug.xcconfig */,
+				05FB5E6A5889B9DAF70D51B5 /* Pods-Amity-UIKit-Pod-Sample.release.xcconfig */,
+				4F33703FE6CD6CC5D1DF091C /* Pods-Amity-UIKit-Pod-Sample-Amity-UIKit-Pod-SampleUITests.debug.xcconfig */,
+				A4A0A8F74B5EFEBEB050413D /* Pods-Amity-UIKit-Pod-Sample-Amity-UIKit-Pod-SampleUITests.release.xcconfig */,
+				F5AE3D572A35AA31E9A0FD06 /* Pods-Amity-UIKit-Pod-SampleTests.debug.xcconfig */,
+				1A8872DFD33055CD0F630F03 /* Pods-Amity-UIKit-Pod-SampleTests.release.xcconfig */,
+			);
+			name = Pods;
+			path = Pods;
+			sourceTree = "<group>";
+		};
+		200DF77F532D1714DE230A95 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				8CF5F0AF41F62AA1121CCAC3 /* Pods_Amity_UIKit_Pod_Sample.framework */,
+				702F12FEA9C59757424CD7F9 /* Pods_Amity_UIKit_Pod_Sample_Amity_UIKit_Pod_SampleUITests.framework */,
+				23EF8414CA0FCF6CB72E1B6E /* Pods_Amity_UIKit_Pod_SampleTests.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
 		4DD22BCE28192E2200644A90 = {
 			isa = PBXGroup;
 			children = (
@@ -83,6 +122,8 @@
 				4DD22BF028192E2500644A90 /* Amity-UIKit-Pod-SampleTests */,
 				4DD22BFA28192E2500644A90 /* Amity-UIKit-Pod-SampleUITests */,
 				4DD22BD828192E2200644A90 /* Products */,
+				1A27460F47125630A6D4A9AD /* Pods */,
+				200DF77F532D1714DE230A95 /* Frameworks */,
 			);
 			sourceTree = "<group>";
 		};
@@ -134,9 +175,11 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 4DD22C0128192E2500644A90 /* Build configuration list for PBXNativeTarget "Amity-UIKit-Pod-Sample" */;
 			buildPhases = (
+				4E2FD8D00DA334B16C4077E9 /* [CP] Check Pods Manifest.lock */,
 				4DD22BD328192E2200644A90 /* Sources */,
 				4DD22BD428192E2200644A90 /* Frameworks */,
 				4DD22BD528192E2200644A90 /* Resources */,
+				20ACA58F2196E452393ACE27 /* [CP] Embed Pods Frameworks */,
 			);
 			buildRules = (
 			);
@@ -151,6 +194,7 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 4DD22C0428192E2500644A90 /* Build configuration list for PBXNativeTarget "Amity-UIKit-Pod-SampleTests" */;
 			buildPhases = (
+				5ABE8783BA9D3F96BBE7142D /* [CP] Check Pods Manifest.lock */,
 				4DD22BE928192E2500644A90 /* Sources */,
 				4DD22BEA28192E2500644A90 /* Frameworks */,
 				4DD22BEB28192E2500644A90 /* Resources */,
@@ -169,9 +213,11 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 4DD22C0728192E2500644A90 /* Build configuration list for PBXNativeTarget "Amity-UIKit-Pod-SampleUITests" */;
 			buildPhases = (
+				362853B74934557ED5DBAED8 /* [CP] Check Pods Manifest.lock */,
 				4DD22BF328192E2500644A90 /* Sources */,
 				4DD22BF428192E2500644A90 /* Frameworks */,
 				4DD22BF528192E2500644A90 /* Resources */,
+				4A064D75E3807924A1577E49 /* [CP] Embed Pods Frameworks */,
 			);
 			buildRules = (
 			);
@@ -252,6 +298,109 @@
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXResourcesBuildPhase section */
+
+/* Begin PBXShellScriptBuildPhase section */
+		20ACA58F2196E452393ACE27 /* [CP] Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-Amity-UIKit-Pod-Sample/Pods-Amity-UIKit-Pod-Sample-frameworks-${CONFIGURATION}-input-files.xcfilelist",
+			);
+			name = "[CP] Embed Pods Frameworks";
+			outputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-Amity-UIKit-Pod-Sample/Pods-Amity-UIKit-Pod-Sample-frameworks-${CONFIGURATION}-output-files.xcfilelist",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-Amity-UIKit-Pod-Sample/Pods-Amity-UIKit-Pod-Sample-frameworks.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		362853B74934557ED5DBAED8 /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputFileListPaths = (
+			);
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-Amity-UIKit-Pod-Sample-Amity-UIKit-Pod-SampleUITests-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+		4A064D75E3807924A1577E49 /* [CP] Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-Amity-UIKit-Pod-Sample-Amity-UIKit-Pod-SampleUITests/Pods-Amity-UIKit-Pod-Sample-Amity-UIKit-Pod-SampleUITests-frameworks-${CONFIGURATION}-input-files.xcfilelist",
+			);
+			name = "[CP] Embed Pods Frameworks";
+			outputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-Amity-UIKit-Pod-Sample-Amity-UIKit-Pod-SampleUITests/Pods-Amity-UIKit-Pod-Sample-Amity-UIKit-Pod-SampleUITests-frameworks-${CONFIGURATION}-output-files.xcfilelist",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-Amity-UIKit-Pod-Sample-Amity-UIKit-Pod-SampleUITests/Pods-Amity-UIKit-Pod-Sample-Amity-UIKit-Pod-SampleUITests-frameworks.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		4E2FD8D00DA334B16C4077E9 /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputFileListPaths = (
+			);
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-Amity-UIKit-Pod-Sample-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+		5ABE8783BA9D3F96BBE7142D /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputFileListPaths = (
+			);
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-Amity-UIKit-Pod-SampleTests-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+/* End PBXShellScriptBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
 		4DD22BD328192E2200644A90 /* Sources */ = {
@@ -434,6 +583,7 @@
 		};
 		4DD22C0228192E2500644A90 /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = A7A8468356578A107C5A78E6 /* Pods-Amity-UIKit-Pod-Sample.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
@@ -461,6 +611,7 @@
 		};
 		4DD22C0328192E2500644A90 /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 05FB5E6A5889B9DAF70D51B5 /* Pods-Amity-UIKit-Pod-Sample.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
@@ -488,6 +639,7 @@
 		};
 		4DD22C0528192E2500644A90 /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = F5AE3D572A35AA31E9A0FD06 /* Pods-Amity-UIKit-Pod-SampleTests.debug.xcconfig */;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				BUNDLE_LOADER = "$(TEST_HOST)";
@@ -507,6 +659,7 @@
 		};
 		4DD22C0628192E2500644A90 /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 1A8872DFD33055CD0F630F03 /* Pods-Amity-UIKit-Pod-SampleTests.release.xcconfig */;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				BUNDLE_LOADER = "$(TEST_HOST)";
@@ -526,6 +679,7 @@
 		};
 		4DD22C0828192E2500644A90 /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 4F33703FE6CD6CC5D1DF091C /* Pods-Amity-UIKit-Pod-Sample-Amity-UIKit-Pod-SampleUITests.debug.xcconfig */;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				CODE_SIGN_STYLE = Automatic;
@@ -543,6 +697,7 @@
 		};
 		4DD22C0928192E2500644A90 /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = A4A0A8F74B5EFEBEB050413D /* Pods-Amity-UIKit-Pod-Sample-Amity-UIKit-Pod-SampleUITests.release.xcconfig */;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				CODE_SIGN_STYLE = Automatic;

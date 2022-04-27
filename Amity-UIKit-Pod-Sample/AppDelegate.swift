@@ -6,7 +6,7 @@
 //
 
 import UIKit
-
+import AmityUIKit
 @main
 class AppDelegate: UIResponder, UIApplicationDelegate {
 
@@ -14,6 +14,11 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
 
     func application(_ application: UIApplication, didFinishLaunchingWithOptions launchOptions: [UIApplication.LaunchOptionsKey: Any]?) -> Bool {
         // Override point for customization after application launch.
+                AmityUIKitManager.setup(
+                    apiKey: "${YOUR_APIKEY}",
+                    region: .SG
+                )
+                AmityUIKitManager.registerDevice(withUserId:"johnwick2" , displayName: "johnwick2")
         return true
     }
 
