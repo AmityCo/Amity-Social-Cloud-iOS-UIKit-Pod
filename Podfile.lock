@@ -1,0 +1,22 @@
+PODS:
+  - AmityUIKit (2.13.0):
+    - Realm (~> 10.21.1)
+  - Realm (10.21.1):
+    - Realm/Headers (= 10.21.1)
+  - Realm/Headers (10.21.1)
+
+DEPENDENCIES:
+  - AmityUIKit
+
+SPEC REPOS:
+  trunk:
+    - AmityUIKit
+    - Realm
+
+SPEC CHECKSUMS:
+  AmityUIKit: c0c1829fa1a52bad7000a9461830d9c5741cf27b
+  Realm: 44b41c3ae39e3ecfded71a04434bfde066c7b317
+
+PODFILE CHECKSUM: 00672ca36885dbfa3a81ccf7ed490d1bf164b966
+
+COCOAPODS: 1.11.2
